@@ -6,19 +6,15 @@ Authors@R:
   c(person(given = "Asuru",
            family = "",
            role = c("aut", "cre"), # There must be a "cre", but there can only be one
-           email = "your@email.com"), 
-    person(given = "Eszter",
-           family = "Kovács",
-           role = "aut",
-           email = "your@email.com"))
+           email = "s233405@dtu.dk"), 
     person(given = "Miguel",
            family = "Gonzalez-Valdes Tejero",
            role = "aut",
-           email = "your@email.com"))
+           email = "s233139@student.dtu.dk"))
     person(given = "Ziwei",
            family = "Li",
            role = "aut",
-           email = "your@email.com"))
+           email = "s233407@dtu.dk"))
     person(given = "Natasha",
            family = "Garibay",
            role = "aut",
@@ -29,4 +25,10 @@ Description: More about what it does (maybe more than one line)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+<<<<<<< HEAD
 
+=======
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.2.3
+>>>>>>> 5205fafd730246804c982fd7239453c039c76e9e
