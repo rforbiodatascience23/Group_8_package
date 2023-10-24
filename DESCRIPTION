@@ -3,14 +3,26 @@ Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
 Authors@R:
-  c(person(given = "firstname",
-           family = "lastname",
+  c(person(given = "Asuru",
+           family = "",
            role = c("aut", "cre"), # There must be a "cre", but there can only be one
            email = "your@email.com"), 
-    person(given = "firstname",
-           family = "lastname",
+    person(given = "Eszter",
+           family = "Kovács",
            role = "aut",
            email = "your@email.com"))
+    person(given = "Miguel",
+           family = "Gonzalez-Valdes Tejero",
+           role = "aut",
+           email = "your@email.com"))
+    person(given = "Ziwei",
+           family = "Li",
+           role = "aut",
+           email = "your@email.com"))
+    person(given = "Natasha",
+           family = "Garibay",
+           role = "aut",
+           email = "nanna2840@hotmail.com"))
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
